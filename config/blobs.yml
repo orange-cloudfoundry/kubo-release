@@ -1,132 +1,99 @@
 autoconf-2.69.tar.gz:
   size: 1927468
-  object_id: 2e4a01bd-aa1e-4fbc-5f56-80aa40d805e3
-  sha: 562471cbcb0dd0fa42a76665acf0dbb68479b78a
+  sha: sha256:954bd69b391edc12d6a4a51a2dd1476543da5c6bbf05a95b59dc0dd6fd4c2969
 automake-1.15.tar.gz:
   size: 2244206
-  object_id: 50feb35a-e388-4fb0-4313-3a47e82fad22
-  sha: b5a840c7ec4321e78fdc9472e476263fa6614ca1
+  sha: sha256:7946e945a96e28152ba5a6beb0625ca715c6e32ac55f2e353ef54def0c8ed924
 cifs-utils-6.7.tar.bz2:
   size: 363647
-  object_id: c529967d-57fa-4b41-685e-ff0a507ffaad
-  sha: 9ba5091d7c2418a90773c861f04a3f4a36854c14
+  sha: sha256:b2f21612474ab012e75accd167aab607a0614ff67efb56ea0f36789fa785cfab
 cni/cni-plugins-amd64-v0.7.1.tgz:
   size: 17108856
-  object_id: 50dc58eb-107d-483a-4e37-5a243ffed520
-  sha: fb29e20401d3e9598a1d8e8d7992970a36de5e05
+  sha: sha256:6ecc5c7dbb8e4296b0d0d017e5440618e19605b9aa3b146a2c29af492f299dc7
 cni/util-linux_2.27.1-6ubuntu3_amd64.deb:
   size: 847730
-  object_id: 27eb3ec3-220f-4a25-6c4f-ec219c37ac8d
-  sha: 568f62cb031608ab09ba1e3c2121e9e8b92dcae4
+  sha: sha256:209bbcbddfc6ef4ebe3f9ffc9af8366b4309d950248c4a274d0914e440139ed2
 conntrack/conntrack_1.4.3-3_amd64.deb:
   size: 27346
-  object_id: 0c4aa633-3de8-4a8c-7170-36b3fc9e4a9c
   sha: sha256:ad9eae1cf2191981dd687b681ee701a2f3adfca5b89b45c2ff74c0f8d32113ff
 conntrack/libnetfilter-conntrack3_1.0.5-1_amd64.deb:
   size: 36634
-  object_id: 1d6d9546-e933-46bd-60f9-00bd8eb91c59
   sha: sha256:18609b2b131bc0dedf4a2c3fbf61b30d16c3d3a96cd43d604e8fc53ebc1e30eb
 container-images/coredns_coredns:1.4.0.tgz:
   size: 12997721
-  object_id: 14779ec2-2266-48eb-77d6-a732d3721d1f
-  sha: b5f7af681ba11570d7ffdf77f9f6c03371b45679
+  sha: sha256:be784c3c960b6f8c02651c5a4c6b8f958b3e505853e5475f72103939780bb128
 container-images/k8s.gcr.io_kubernetes-dashboard-amd64:v1.10.1.tgz:
   size: 44852477
-  object_id: 1d8fdcd7-fe1e-431d-5d90-2032b97d8ad0
-  sha: 8a19204a0a3f75c5a4f495b1cd3bb1c7d604fa6c
+  sha: sha256:71988655e1b4f7bc76373721ac45a2d21667c3f908465945438a5972d83e6db8
 container-images/k8s.gcr.io_metrics-server-amd64:v0.3.6.tgz:
   size: 10382760
-  object_id: ce583d21-d693-492d-71f8-8f40bdf54d43
-  sha: 31569430e282f25a62c9c717ad384a38495f4757
+  sha: sha256:18ef9cb59c3dcb87612d112bf5671b884a79fba64e4bdf5c4f837c77e7a54e78
 container-images/k8s.gcr.io_pause:3.1.tgz:
   size: 315592
-  object_id: f6ba8b90-9a60-454d-73e0-cab4b1c4a554
-  sha: d4095b6513b3d5ef770c44d651ae5601878906d8
+  sha: sha256:d9abbc704a52c329c38a3fedb6ce5535bbba3cdf245cf409beb7cee88d9b89c9
 container-images/pcfkubo_nginx-bionic:1.0.0.tgz:
   size: 77661967
-  object_id: f2575255-59f6-442e-5f69-d10e5a24e178
-  sha: c677df2c93e1a15604285ea0f32b121011dcacdd
+  sha: sha256:261011e7884bcea5d8391bce6976975dcb6ebca1b39f8fffa24876e5771b8dc9
 etcdctl-3.0.7:
   size: 18427584
-  object_id: 32221476-5c3d-4ec7-5869-44c989cc3077
-  sha: 11f0462cc86bf85332399a2fa584d5bb46d0cb2a
+  sha: sha256:e662e9ba79ccfe1371899c62d49ef3b18358b890e409f968f11846902be38f88
 flannel-v0.11.0-linux-amd64.tar.gz:
   size: 9565743
-  object_id: 83064ebe-b45d-4d41-694a-b1e61a781250
-  sha: 3024034b2202d5940acf5353037161ea1770a9c5
+  sha: sha256:136e859d5e5239d12effe312d599c3978f94d1b6ecff6bd18695cf022030f93a
 ipset/ipset_6.20.1-1_amd64.deb:
   size: 34156
-  object_id: 5dfcce8f-366e-49f0-59e6-9e2d48178750
-  sha: 79eb9008d1a57b31bc748b49c18701ab3dd41108
+  sha: sha256:7b6f69d0a12eaacdc66af28d77ac4b04339dbc19a4043ca4e347c5e2ba908437
 ipset/libipset3_6.20.1-1_amd64.deb:
   size: 50812
-  object_id: 67efec49-e111-45fc-701d-7d55dbe66660
-  sha: e4daa1ac22b2775d1c334aa6fe055ca8dcccc185
+  sha: sha256:b33bdb03a1f3e4eacf6ff955e835ad2c68299b7d1dbd6f8d0f38632fef24c860
 jq-linux64-1.6:
   size: 3953824
-  object_id: efdcc8cd-7155-47d4-65c9-d3d74700633f
-  sha: 056ba5d6bbc617c29d37158ce11fd5a443093949
+  sha: sha256:af986793a515d500ab2d35f8d2aecd656e764504b789b66d7e1a0b727a124c44
 kubernetes-1.15.7/kube-apiserver:
   size: 164571520
-  object_id: 15915aec-5994-4d84-5c8f-3034fd2b7487
-  sha: e7f7a3df5f582f20efba7959c6723ce6e503d7e0
+  sha: sha256:1858886490aefc2de675c0e113cdcf58e2c72ff7f03f93614243414cd31cdb51
 kubernetes-1.15.7/kube-controller-manager:
   size: 116466656
-  object_id: e1031eeb-0943-46d3-6ca5-d1c9c42200fd
-  sha: 79951bc5019eff843e8a672cc7a055f4dd0b6e09
+  sha: sha256:a516092a3813e82867f2cc73302fd7c9ec9c197054bbb234c24c813499dc98d5
 kubernetes-1.15.7/kube-proxy:
   size: 36991584
-  object_id: b6fff7a8-b94e-430d-7ca0-1f9c837ac2cd
-  sha: 2e46a488702e3eb11b69a1f4f69cedd960f48e52
+  sha: sha256:103fb9a25b20b86cf6ab1f5a36690eef942da7327c0dc117312e934baa09a5a6
 kubernetes-1.15.7/kube-scheduler:
   size: 38790240
-  object_id: 121e2e70-4b5d-4e2b-657b-12f6ebe69091
-  sha: 548e07494ecc5c3cb885434b0487772b66b068ca
+  sha: sha256:b2675781d5f82bf88dc42580d02ff54550b893f016a24ff6c2980de67f494fa1
 kubernetes-1.15.7/kubectl:
   size: 42993696
-  object_id: 5bacac12-ed9d-495b-4e5e-573454d4ee13
-  sha: 0d9be9e4046364f41a00ae3bd72a6a23d90c2c2f
+  sha: sha256:01eb6cf747a0164a68df07fac2a50698bab51af0306d2797ed5971786fde9779
 kubernetes-1.15.7/kubelet:
   size: 119702544
-  object_id: a6352fe8-109d-4965-68d7-60dd5b1764d1
-  sha: 6c7ca7af8bbb074131c9afefcb17f1187737b711
+  sha: sha256:e018fc3b934cb5325bc55444e029ddc357544191132794162de9e3663dd7e952
 libmnl0_1.0.3-5_amd64.deb:
   size: 11970
-  object_id: 30b1e2c0-4194-47f2-544f-f55eb76b9101
   sha: sha256:abd749bdd206e51fc9ac19ef27d4452a2d9df46b5b1a276d50a065af901ab1c4
 libtool-2.4.6.tar.gz:
   size: 1806697
-  object_id: 670cc8a2-75d8-4fb5-465f-270395cb9373
-  sha: 25b6931265230a06f0fc2146df64c04e5ae6ec33
+  sha: sha256:e3bd4d5d3d025a36c21dd6af7ea818a2afcd4dfc1ea5a17b39d7854bcd0c06e3
 nfs-debs/keyutils_1.5.9-8ubuntu1_amd64.deb:
   size: 47054
-  object_id: e1b42c34-4e88-426b-7268-99d1bdfd40c1
-  sha: ec2e96e73feb5215605c9f0254cad05d9cc5688a
+  sha: sha256:782865f7688ecc2a168f6c51e8e63f44326d73144a9df35087fd1e55e30d23db
 nfs-debs/libevent-2.0-5_2.0.21-stable-2ubuntu0.16.04.1_amd64.deb:
   size: 114014
-  object_id: 0fa38188-cd2c-417f-7407-02367bc99c7d
   sha: sha256:e1acdffde386a4da7de46166ffd199771a13498f5d4fc38d61b3fa0eba305572
 nfs-debs/libnfsidmap2_0.25-5_amd64.deb:
   size: 32182
-  object_id: 59ba4d66-fb63-4a62-75da-8502169d85cd
-  sha: f28b7370542daaf81cefb44d9057fa9b3fb43064
+  sha: sha256:ed00ae6b3efc4c28068e5f984d8c69942c68502593da945b89b0045e7fcef396
 nfs-debs/nfs-common_1:1.2.8-9ubuntu12.1_amd64.deb:
   size: 184334
-  object_id: 6c99be77-1ba2-4be4-409a-36c090035646
-  sha: 38f7234fade7c15ffecf4c043c877b01ead92d3d
+  sha: sha256:91ee605b09bd024ed97338bed442285c5980810d9a94f23aa182255e1c16316b
 nfs-debs/rpcbind_0.2.3-0.2_amd64.deb:
   size: 40252
-  object_id: 56ad455e-38be-40da-7815-a9d4774d55e4
-  sha: 8fa58cfcb1862c6d337d10496fada5f1a6e94a03
+  sha: sha256:7c9d1aca35cd01ef0c9cbc90f93e993116e84de1967c429e1130a16281fd3a6e
 pkg-config-0.29.2.tar.gz:
   size: 2016830
-  object_id: 2a0b553f-c65d-42ef-6317-dd0cfcdc7c06
-  sha: 76e501663b29cb7580245720edfb6106164fad2b
+  sha: sha256:6fc69c01688c9458a57eb9a1664c9aba372ccda420a02bf4429fe610e7e7d591
 socat-1.7.3.2.tar.gz:
   size: 615818
-  object_id: a6f3dcb3-54a0-44a3-4100-f408932aaf8f
-  sha: a2446f65fb9fe9703b85ac5664c8920089fe32d8
+  sha: sha256:b5a37324704221c00ba4d65cf85ada9515685cdcfba16120d26517a18b3dd097
 talloc-2.1.9.tar.gz:
   size: 440335
-  object_id: f2d8d5e1-1cb6-450c-480f-015534a76b17
-  sha: e1e79fec4c0b6bd92be904a9c03b0a168478711a
+  sha: sha256:f0aad4cb88a3322207c82136ddc07bed48a37c2c21f82962d6c5ccb422711062
